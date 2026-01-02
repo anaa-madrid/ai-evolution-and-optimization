@@ -22,7 +22,7 @@ The program uses **permutation-based chromosomes** and a **fitness evaluation** 
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 Creating random population
 gen:     0; meanf: 1.859; bestf:51.90833; div: 0.745; time: 0.01
