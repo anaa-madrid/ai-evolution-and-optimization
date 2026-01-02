@@ -10,15 +10,6 @@ Author: Ana Madrid Serrano
 Date: 2026-01-02
 Project: Class Schedule Optimization
 
-Description:
-This script automatically generates and evaluates class schedules
-using genetic algorithms. The fitness function prioritizes:
-    - Subjects in preferred time slots (e.g., Mathematics first thing in the morning)
-    - Minimizing repeated subjects in the same time slot/day
-    - Compliance with mandatory subjects on specific days (MAE, Tutoring)
-    
-This project is part of a collection of evolutionary and optimization
-projects developed in Python.
 """
 
 # -------------------------------------------------------------------

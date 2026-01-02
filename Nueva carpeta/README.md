@@ -22,6 +22,29 @@ The program uses **permutation-based chromosomes** and a **fitness evaluation** 
 
 ---
 
+## 📈 Example Output
+
+Creating random population
+gen:     0; meanf: 1.859; bestf:51.90833; div: 0.745; time: 0.01
+Target fitness reached
+gen:    38; meanf:36.628; bestf:65.34722; div: 0.277; time: 8.65
+
+Global historical best chromosome:
+['Mat', 'Mat', 'Mat', 'Bio', 'EdF', 'Len', 'Len', 'Len', 'EdF', 'Len', 
+ 'MAE', 'Soc', 'Soc', 'Fis', 'Fis', 'Qui', 'Ing', 'Mus', 'Mus', 'Ing', 
+ 'Soc', 'Qui', 'Tec', 'Tec', 'Tec', 'Pla', 'Bio', 'Pla', 'Ing', 'Tut']
+fitness: 65.3472
+
+Global historical best phenotype:
+Mat  Mat  Mat  Bio  EdF
+Len  Len  Len  EdF  Len
+MAE  Soc  Soc  Fis  Fis
+Qui  Ing  Mus  Mus  Ing
+Soc  Qui  Tec  Tec  Tec
+Pla  Bio  Pla  Ing  Tut
+
+---
+
 ## Interpretation of Results
 
 - **Generation 0**: Initial random population. Mean fitness is low (`1.859`), best fitness `51.91`. Diversity is high (`0.745`), meaning the population is varied.
