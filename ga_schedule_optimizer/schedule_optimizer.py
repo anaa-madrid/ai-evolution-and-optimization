@@ -7,7 +7,6 @@ genetic_schedule_optimizer.py
 Program for optimizing class schedules using Genetic Algorithms (GA).
 
 Author: Ana Madrid Serrano
-Date: 2026-01-02
 Project: Class Schedule Optimization
 
 """

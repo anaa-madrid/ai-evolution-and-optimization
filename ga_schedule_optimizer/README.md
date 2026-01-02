@@ -2,7 +2,7 @@
 
 **Project:** Class Schedule Optimization using Genetic Algorithms (GA)  
 **Author:** Ana Madrid Serrano  
-**Date:** 2026-01-02  
+ 
 
 This project is part of a growing collection of **optimization problems** solved using **evolutionary algorithms**. Each problem demonstrates how to use **SALGA** or other genetic algorithms to **iteratively search for the optimal chromosome or solution**.
 
