@@ -14,8 +14,11 @@ The goal of this repository is to **experiment, learn, and showcase practical ap
 ## Repository Structure
 
 ga_N-Queens_optimizer --> https://github.com/anaa-madrid/ai-evolution-and-optimization/tree/main/ga_N-Queens_optimizer
+
 ga_knapsack_optimizer --> https://github.com/anaa-madrid/ai-evolution-and-optimization/tree/main/ga_knapsack_optimizer
+
 ga_schedule_optimizer --> https://github.com/anaa-madrid/ai-evolution-and-optimization/tree/main/ga_schedule_optimizer
+
 Each folder contains:
 - A Python implementation of the problem
 - A dedicated README explaining the problem, fitness function, and results
