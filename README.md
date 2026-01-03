@@ -1,4 +1,4 @@
-# AI-EVOLUTION-AND--OPTIMIZATION
+# AI-EVOLUTION-AND-OPTIMIZATION
 
 **Author:** Ana Madrid Serrano  
 **Focus:** Evolutionary Computation · Genetic Algorithms · Optimization  
