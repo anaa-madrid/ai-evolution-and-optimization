@@ -59,10 +59,4 @@ parameters = {
     'pmut': 0.2
 }
 
-# -------------------------------------------------------------------
-# Example usage
-if __name__ == "__main__":
-    # Example chromosome (selecting items 0, 1, and 3)
-    example_chromosome = [True, True, False, True, False]
-    print("Chromosome:", example_chromosome)
-    print("Fitness:", fitness(example_chromosome))
+
